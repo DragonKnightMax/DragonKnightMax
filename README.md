@@ -4,9 +4,14 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=DragonKnight3045)
 
 <!-- GitHub Stats -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DragonKnight3045)
+
+
+<!-- Most Used Languages -->
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonKnight3045&theme=blue-green)
 
 
 <!-- GitHub Extra Pins
