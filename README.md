@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m @DragonKnightMax
-- 👀 I’m interested in Cybersecurity.
-- 🌱 I’m currently learning DevOps and AI.
-- 💞️ I’m looking to collaborate on small ML project.
+- 👀 I’m interested in AI and Cybersecurity.
+- 🌱 I’m currently learning DevOps and LLM.
 - 📫 Get in touch by email: dragon.knight3045@gmail.com
 
 
